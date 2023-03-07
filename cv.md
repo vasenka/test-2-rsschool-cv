@@ -1,6 +1,6 @@
 # Vasilisa Sitnikova
 
-![](/images/me.jpeg)
+![](/images/me.jpeg =50x50)
 
 ## Contact information
 **Phone:** +7(931)290-14-03  
