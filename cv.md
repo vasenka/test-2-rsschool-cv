@@ -1,6 +1,6 @@
 # Vasilisa Sitnikova
 
-![](/images/me.jpeg){width=50}
+![](/images/me.jpeg){:height="50px" width="50px"}
 
 ## Contact information
 **Phone:** +7(931)290-14-03  
