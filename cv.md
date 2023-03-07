@@ -1,5 +1,7 @@
 # Vasilisa Sitnikova
 
+![](/images/me.jpeg)
+
 ## Contact information
 **Phone:** +7(931)290-14-03  
 **email:** sitnikova.va@mail.ru
